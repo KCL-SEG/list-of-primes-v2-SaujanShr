@@ -20,5 +20,3 @@ def primes(number_of_primes):
             count += 1
 
     return list
-
-print(primes(100))
